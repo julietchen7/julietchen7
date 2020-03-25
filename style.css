@@ -1,0 +1,70 @@
+#nav-bar
+{
+    position: sticky;
+    top:0;
+    z-index: 10;
+}
+.navbar-brand img
+{
+    height: 40px;
+    padding-left: 30px;
+}
+.navbar-nav li
+{
+    padding: 0 10px;
+}
+.navbar-nav li a
+{
+    padding: 0 10px;
+    float:right;
+    text-align:left;
+}
+.nav-bar ul li a:hover
+{
+    color: pink;
+}
+.navbar
+{
+    background:lightblue;
+}
+.navbar-toggle
+{
+    border:none;
+}
+.nav-link
+{
+    color: #555;
+    font-weight:600;
+    font-size: 16px; 
+}
+#slider
+{
+    width: 100%;
+}
+.carousel-caption
+{
+    top: 50%;
+    transform: translateY(-50%);
+    bottom: initial;
+}
+.carousel-caption h5
+{
+    color: white;
+    font-size:42 px;
+}
+#about
+{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: Pink;
+}
+.about-content
+{
+    padding-top:20px;
+}
+#about button
+{
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
