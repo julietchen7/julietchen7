@@ -3,7 +3,7 @@
     padding-top: 50px;
     padding-bottom: 50 px;
     color: lightpink;
-    background-image: url(../images/purple.png);
+    background-image: url(images/purple.png);
 }
 h1{
     text-align: center;
@@ -79,4 +79,7 @@ p {
  }
  h2 {
    color: plum;
+ }
+ footer {
+   background-color: purple;
  }
