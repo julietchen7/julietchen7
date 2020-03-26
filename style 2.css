@@ -3,7 +3,7 @@
     padding-top: 50px;
     padding-bottom: 50 px;
     color: lightpink;
-    background-image: url(images/purple.png);
+    background-image: url(images/galaxy.jpg);
 }
 h1{
     text-align: center;
@@ -46,7 +46,7 @@ p {
 }
 * {
     box-sizing: border-box;
-    background-image: url(../images/purple.png);
+    
   }
   
   .responsive {
@@ -80,6 +80,19 @@ p {
  h2 {
    color: plum;
  }
- footer {
-   background-color: purple;
+ p1 {
+   color: white;
+   font-family: 'Sen', sans-serif;
  }
+ #footer
+{
+    background:purple;
+    color: #fff;
+    padding: 12px;
+    font-family: 'Sen', sans-serif;
+}
+.fa-heart-o
+{
+    margin: 3px;
+    color: red;
+}
