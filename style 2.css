@@ -1,16 +1,15 @@
-body {
-  background-image: url(../images/purple.png);
-}
 #planets
 {
     padding-top: 50px;
     padding-bottom: 50 px;
     color: lightpink;
+    background-image: url(../images/purple.png);
 }
 h1{
     text-align: center;
     color: palevioletred;
     padding-bottom: 10px;
+    font-family:pacifico, cursive;
 }
 h1::after
 {
@@ -21,13 +20,20 @@ h1::after
     width: 170 px;
     margin: 20px auto 5px;
 }
-div.desc
+.p2 
+{}
+  text-align: center;
+  padding-bottom: 10 px;
+  font-family: 'Sen', sans-serif;
+}
+desc
 {
     text-align: left;
     color:palevioletred;
     padding-top: 30px;
     padding-bottom: 20 px;
     font-weight: bold;
+    font-family:pacifico, cursive;
 }
 div.desc:hover {
     border: 1px solid powderblue;
@@ -36,9 +42,11 @@ p {
     padding-top: 30px;
     color: blueviolet;
     text-align: left;
+    font-family: 'Sen', sans-serif;
 }
 * {
     box-sizing: border-box;
+    background-image: url(../images/purple.png);
   }
   
   .responsive {
@@ -65,4 +73,10 @@ p {
     display: table;
     clear: both;
   }
- 
+ #nav-bar
+ {
+  font-family: 'Sen', sans-serif;
+ }
+ h2 {
+   color: plum;
+ }
