@@ -63,7 +63,7 @@
     width: auto;
     margin-top: -22px;
     padding: 16px;
-    color: rgb(209, 64, 64);
+    color: white;
     font-weight: bold;
     font-size: 18px;
     transition: 0.6s ease;
@@ -77,7 +77,7 @@
   width: auto;
   margin-top: -22px;
   padding: 16px;
-  color: rgb(209, 64, 64);
+  color:white;
   font-weight: bold;
   font-size: 18px;
   transition: 0.6s ease;
