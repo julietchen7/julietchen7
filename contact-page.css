@@ -1,0 +1,56 @@
+#contact
+{
+    background-image: url(images/blue\ pink\ gradient.svg);
+    background-color: white;
+    padding-top: 40px;
+    padding-bottom: 50px;
+}
+.contact-form{
+    padding:15px;
+    font-family: 'Sen', sans-serif;
+    
+}
+.form-control {
+    border-radius: 0;
+    border: none;
+}
+::placeholder{
+    color: #999;
+}
+.follow {
+    color: #fff;
+    padding: 10px;
+    margin: 15px;
+    font-family: 'Sen', sans-serif;
+}
+.contact-info.fa{
+    margin: 10px;
+    color: white;
+    font-family: 'Pacifico', cursive;
+}
+#footer
+{
+    background:purple;
+    color: #fff;
+    padding: 12px;
+    font-family: 'Sen', sans-serif;
+}
+.fa-heart-o
+{
+    margin: 3px;
+    color: red;
+}
+#nav-bar
+{
+    font-family: 'Sen', sans-serif;
+    color: purple;
+}
+h1
+{
+    font-family: 'Pacifico', cursive;
+    color: white;
+}
+p {
+    font-family: 'Pacifico', cursive;
+    color: white;
+}
